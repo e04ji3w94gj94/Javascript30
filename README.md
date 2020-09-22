@@ -7,3 +7,5 @@
 - Day 5：Flex Panel Gallery
 - Day 6：Type Ahead
 - Day 7：Array Cardio Day 2
+- Day 8：Fun with HTML5 Canvas
+- Day 9：Dev Tools Domination
