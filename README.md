@@ -12,3 +12,5 @@
 - Day 10：Hold Shift and Check Checkboxes
 - Day 11：Custom Video Player
 - Day 12：Key Sequence Detection
+- Day 13：Slide in on Scroll
+- Day 14：JavaScript References VS Copying
