@@ -14,3 +14,4 @@
 - Day 12：Key Sequence Detection
 - Day 13：Slide in on Scroll
 - Day 14：JavaScript References VS Copying
+- Day 15：LocalStorage
